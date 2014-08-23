@@ -11,4 +11,5 @@ Prerequisites
 - Qt4
 
 Notes
+=============
   For the best appearance, please install fonts in Font.zip before run the app.
